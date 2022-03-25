@@ -27,7 +27,7 @@ func _ready():
 		save_data = {}
 		save_data["player"] = {}
 		save_data["worlds"] = {}
-		load_world("World8", LoadType.START)
+		load_world("World5", LoadType.START)
 	else:
 		load_world(save_data.player.world_name, LoadType.LOAD)
 

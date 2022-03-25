@@ -105,6 +105,7 @@ tile_data = PoolIntArray( -392993, 7, 0, -392992, 7, 0, -392991, 7, 0, -392990, 
 [node name="LevelNavigation" type="Navigation2D" parent="." groups=[
 "LevelNavigation",
 ]]
+visible = false
 
 [node name="TileMap" type="TileMap" parent="LevelNavigation"]
 scale = Vector2( 2, 2 )

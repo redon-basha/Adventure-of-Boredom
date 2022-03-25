@@ -24,15 +24,12 @@ position = Vector2( 81.3173, 267.286 )
 
 [node name="KinematicBody2D" parent="." instance=ExtResource( 4 )]
 position = Vector2( 341.933, 44.4292 )
-scale = Vector2( 0.5, 0.5 )
 
 [node name="KinematicBody2D2" parent="." instance=ExtResource( 4 )]
 position = Vector2( 510.363, 15.595 )
-scale = Vector2( 0.5, 0.5 )
 
 [node name="KinematicBody2D3" parent="." instance=ExtResource( 4 )]
 position = Vector2( 564.629, 312.947 )
-scale = Vector2( 0.5, 0.5 )
 
 [node name="Pathfinder" parent="." instance=ExtResource( 5 )]
 position = Vector2( 60.3212, 159.534 )
