@@ -5,11 +5,16 @@ A 2D Metroidvania game in development using the godot engine as a project for th
 ## Demo
 
 ### Player movements
-![moves](https://github.com/redon-basha/Adventure-of-Boredom/blob/main/demo/moves.gif?raw=true)
+https://user-images.githubusercontent.com/82119496/160214782-14d4846d-94c0-49d4-b403-dadfbc810e1e.mp4
 
 ### Different enemies
-![lizard](https://github.com/redon-basha/Adventure-of-Boredom/blob/main/demo/lizard.gif?raw=true)
+https://user-images.githubusercontent.com/82119496/160214259-109ec312-0152-44c8-933f-50b75db541f1.mp4
 
-![slime](https://github.com/redon-basha/Adventure-of-Boredom/blob/main/demo/slime.gif?raw=true)
+### Bosses
+https://user-images.githubusercontent.com/82119496/160214579-cd26d93d-28df-489e-a1cf-40918c18721e.mp4
 
-![guardian](https://github.com/redon-basha/Adventure-of-Boredom/blob/main/demo/guardian.gif?raw=true)
+### Skills
+https://user-images.githubusercontent.com/82119496/160214515-6fc76871-4772-4ee0-b9dc-a70697b9dc0a.mp4
+
+### Npc
+https://user-images.githubusercontent.com/82119496/160214546-9c94009b-0d83-4492-b1ff-91d5958563c4.mp4
