@@ -11,10 +11,11 @@ https://user-images.githubusercontent.com/82119496/160214782-14d4846d-94c0-49d4-
 https://user-images.githubusercontent.com/82119496/160214259-109ec312-0152-44c8-933f-50b75db541f1.mp4
 
 ### Bosses
-https://user-images.githubusercontent.com/82119496/160214579-cd26d93d-28df-489e-a1cf-40918c18721e.mp4
-
-### Skills
 https://user-images.githubusercontent.com/82119496/160214515-6fc76871-4772-4ee0-b9dc-a70697b9dc0a.mp4
 
-### Npc
+### Skills
 https://user-images.githubusercontent.com/82119496/160214546-9c94009b-0d83-4492-b1ff-91d5958563c4.mp4
+
+
+### Npc
+https://user-images.githubusercontent.com/82119496/160214579-cd26d93d-28df-489e-a1cf-40918c18721e.mp4
